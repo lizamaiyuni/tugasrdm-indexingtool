@@ -37,13 +37,13 @@ cd image-search-engine/ lalu pip3 install -r requirements.txt untuk menginstall 
 
 2. Modifikasi data dengan beberapa sintax, seperti yang terdapat pada screenshot
 Masukkan syntax IndexDir ./data dalam tugas.conf
-![](pictures/im3.png)
+![](pictures/t3.png)
 
 Masukkan isi dalam file.txt seperti beberapa kata
-![](pictures/im5.png)
+![](pictures/t5.png)
 
 3. untuk menjalankan program text indexing, gunakan syntax : swish-e -c tugas.conf
-![](pictures/im6.png)
+![](pictures/t6.png)
 
 4. untuk menjalankan program dengan mencari salah satu kata, gunakan syntax : swish-e -w (misal kata : aku)
-![](pictures/im8.png)
+![](pictures/t8.png)
