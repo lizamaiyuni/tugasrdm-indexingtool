@@ -37,6 +37,7 @@ cd image-search-engine/ lalu pip3 install -r requirements.txt untuk menginstall 
 
 2. Modifikasi data dengan beberapa sintax, seperti yang terdapat pada screenshot
 Masukkan syntax IndexDir ./data dalam tugas.conf
+
 ![](pictures/t3.png)
 
 Masukkan isi dalam file.txt seperti beberapa kata
