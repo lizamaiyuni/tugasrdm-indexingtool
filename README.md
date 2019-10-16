@@ -48,3 +48,9 @@ Masukkan isi dalam file.txt seperti beberapa kata
 
 4. untuk menjalankan program dengan mencari salah satu kata, gunakan syntax : swish-e -w (misal kata : aku)
 ![](pictures/t8.png)
+
+Sumber toolkit:
+• Text Indexing
+Swish-e (Install Package on Ubuntu)
+• Image Indexing
+https://github.com/kudeh/image-search-engine
